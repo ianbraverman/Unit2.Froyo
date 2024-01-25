@@ -28,4 +28,4 @@ function yourorder(objects) {
   }
   return messages;
 }
-console.log(yourorder(allflavors).join());
+console.log(yourorder(allflavors).join() + ".");
